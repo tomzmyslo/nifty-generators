@@ -1,3 +1,7 @@
+0.4.7 (February 20, 2012)
+
+* updated all files that pertain to the Rails 3.1 Asset Pipeline
+
 0.4.6 (March 26, 2011)
 
 * fixing form block in HAML (thanks apocalyptiq)
